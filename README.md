@@ -1,6 +1,7 @@
 <div align="center">
 
 #  Last Light of Hope
+ <img src="logo.png" width="200" alt="CodeforcesSync Logo" />
 
 ### *A Horror Maze Survival Game built with iGraphics (OpenGL/GLUT)*
 
